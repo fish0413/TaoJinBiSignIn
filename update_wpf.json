@@ -1,9 +1,9 @@
 {
     "files": [{
         "filename": "TaoJinBiSignIn.WPF.exe",
-        "md5": "3FE19A11173B3413652A87E83FFB5BD2",
+        "md5": "A3CE96BCABBCC7E846F4897839A90075",
         "url": "https:\/\/github.com\/fish0413\/TaoJinBiSignIn\/raw\/master\/TaoJinBiSignIn.WPF.exe.zip",
-        "length": "28167"
+        "length": "28421"
     }, {
         "filename": "TaoJinBiSignIn.WPF.Egg.dll",
         "md5": "282DF88FF4F421B0B5CF2A5B1CE5F34C",
@@ -11,9 +11,9 @@
         "length": "1768263"
     }, {
         "filename": "MahApps.Metro.dll",
-        "md5": "E15B7C0B90213D2AE1BF067DA016456F",
+        "md5": "47B36D6101B6805B8642EB69C46D4A5F",
         "url": "https:\/\/github.com\/fish0413\/TaoJinBiSignIn\/raw\/master\/MahApps.Metro.dll.zip",
-        "length": "302080"
+        "length": "314616"
     }, {
         "filename": "MahApps.Metro.IconPacks.dll",
         "md5": "157D999DB0D11E837B279DED32A29574",
